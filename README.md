@@ -29,10 +29,9 @@ The report is designed for **job seekers, aspiring data professionals, recruiter
 
 ---
 
-## 📄 Page 1: Dashboard Overview
+## 📊 Page 1: Dashboard Overview
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
-
+![Dashboard Overview](images/Dashboard_Overview.png)
 This dashboard provides a high-level overview of the global data job market through interactive visualizations and key performance indicators. It enables users to quickly identify hiring trends, salary insights, and the most in-demand data roles.
 
 ### Key Highlights
