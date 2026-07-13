@@ -4,16 +4,6 @@ An interactive Power BI dashboard built to analyze the global data job market, p
 
 ---
 
-## 🌐 Live Interactive Dashboard
-
-> 🚀 **Explore the Interactive Dashboard**
-
-**🔗 Live Dashboard:** https://app.powerbi.com/view?r=YOUR_POWERBI_LINK_HERE
-
-> Replace the above URL with your published Power BI Service link.
-
----
-
 ## 📥 Download Power BI Report
 
 If you'd like to explore the report locally, download the Power BI project below.
@@ -21,8 +11,7 @@ If you'd like to explore the report locally, download the Power BI project below
 📂 **Power BI File**
 
 ```
-PowerBI/Global_Data_Jobs_Dashboard.pbix
-```
+PowerBI/Global_Data_Jobs_Dashboard.pbix/
 
 ---
 
