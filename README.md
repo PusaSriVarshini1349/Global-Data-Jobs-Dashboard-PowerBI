@@ -95,9 +95,7 @@ The dashboard can be further enhanced with additional features, including:
 
 # 👩‍💻 Author
 
-## P. Sri Varshini
-
-**Final Year B.Tech – Computer Science & Engineering (Data Science)**
+## Pusa Sri Varshini
 
 🎯 Aspiring Data Analyst | Business Intelligence Enthusiast
 
