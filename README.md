@@ -33,7 +33,6 @@ The report is designed for **job seekers, aspiring data professionals, recruiter
 
 ![Dashboard Overview](./Dashboard_Overview.png)
 
-This dashboard provides a high-level overview of the global data job market...
 This dashboard provides a high-level overview of the global data job market through interactive visualizations and key performance indicators. It enables users to quickly identify hiring trends, salary insights, and the most in-demand data roles.
 
 ### Key Highlights
@@ -53,7 +52,7 @@ The dashboard is designed to help users quickly understand market trends and mak
 
 ## 📄 Page 2: Job Title Drill-through
 
-![Job Title Drillthrough](Images/Job_Title_Drillthrough.png)
+![Job Title Drillthrough](Job_Title_Drillthrough.png)
 
 The Drill-through page provides a detailed analysis for each selected job title from the main dashboard. Users can navigate directly from the overview page to explore role-specific insights.
 
